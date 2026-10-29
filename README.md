@@ -22,4 +22,13 @@
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+Vue          210 hrs 27 mins       █████████████░░░░░░░░░░░░   52.43 %
+TypeScript   89 hrs 3 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
+JavaScript   39 hrs 19 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+HTML         28 hrs 40 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+Other        11 hrs 13 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+```
+
 <!--END_SECTION:waka-->
